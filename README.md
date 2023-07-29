@@ -2,7 +2,7 @@
 #### 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚘𝚏 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐
 ![𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚘𝚏 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐](https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/335684964_1250018729278378_7961294977343282557_n.jpg?_nc_cat=101&cb=99be929b-3346023f&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGcnHNqdS06FrSkTTs2EXg4Q3DeZGi1GRZDcN5kaLUZFpPO3tnub9WoLTk-2Mb_wztuL3rVx-JKQ_5vil7qtdYX&_nc_ohc=jSCSZdUnhdIAX-BJ_Wy&_nc_ht=scontent.fdac27-2.fna&oh=00_AfATRF2B9j5YryoZ1XICM_pJE5KPVNLXsZr4uFelGYjIQg&oe=64C8A5B3)
 
-█▓▒▒░░░I am a Student of Computer Science and Engineering.Currently I study at Hajee Mohammad Danesh Science and Technology University.░░░▒▒▓█
+█▓▒▒░░░  I am a Student of Computer Science and Engineering.Currently I study at Hajee Mohammad Danesh Science and Technology University.░░░▒▒▓█
 
 Skills: ℂ/ℂℙℙ/ℍ𝕋𝕄𝕃/ℙ𝕪𝕥𝕙𝕠𝕟
 
