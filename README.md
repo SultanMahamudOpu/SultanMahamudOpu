@@ -2,7 +2,7 @@
 #### 🆂🆃🆄🅳🅴🅽🆃 🅾🅵   🅲🅾🅼🅿🆄🆃🅴🆁   🆂🅲🅸🅴🅽🅲🅴  🅰🅽🅳  🅴🅽🅶🅸🅽🅴🅴🆁🅸🅽🅶
 ![🆂🆃🆄🅳🅴🅽🆃 🅾🅵   🅲🅾🅼🅿🆄🆃🅴🆁   🆂🅲🅸🅴🅽🅲🅴  🅰🅽🅳  🅴🅽🅶🅸🅽🅴🅴🆁🅸🅽🅶](https://www.facebook.com/photo/?fbid=1885269675162794&set=a.110492515973861)
 
-█▓▒▒░░░I am a Student of Computer Science and Engineering.Currently I study at Hajee Mohammad Danesh Science and Technology University.░░░▒▒▓█
+█▓▒▒░░░  I am a Student of Computer Science and Engineering.Currently I study at Hajee Mohammad Danesh Science and Technology University.░░░▒▒▓█
 
 Skills: C/CPP/HTML/Python
 
